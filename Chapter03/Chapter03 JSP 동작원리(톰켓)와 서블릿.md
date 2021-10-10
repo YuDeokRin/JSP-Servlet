@@ -10,9 +10,10 @@
 
  들어오는 요청을 처리하고 해당 응답을 생성하는 기능을 가진 구성 요소를 나타냅니다. 엔진은 서비스에 대한 모든 요청을 처리하고 호스트는 특정 가상 호스트에 대한 모든 요청을 처리하며 컨텍스트는 특정 웹 애플리케이션에 대한 모든 요청을 처리합니다.
 
-![Untitled](Chapter03%20JSP%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5(%E1%84%90%E1%85%A9%E1%86%B7%E1%84%8F%E1%85%A6%E1%86%BA)%E1%84%8B%E1%85%AA%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA%202945414d3a41407f94c2fd626bc69ee9/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/136703891-acd4e50f-bfbc-4238-99bf-14b946e19d19.png)
 
-![Untitled](Chapter03%20JSP%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5(%E1%84%90%E1%85%A9%E1%86%B7%E1%84%8F%E1%85%A6%E1%86%BA)%E1%84%8B%E1%85%AA%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA%202945414d3a41407f94c2fd626bc69ee9/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/136703893-81daf6a4-f560-4f12-8b45-e35014544b95.png)
+
 
 ①단계 
 
@@ -87,7 +88,7 @@ JSP파일로부터 서블릿이라는 새로운 자바 파일이 생성됩니다
 
 ## JSP의 Life Cycle
 
-![Untitled](Chapter03%20JSP%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5(%E1%84%90%E1%85%A9%E1%86%B7%E1%84%8F%E1%85%A6%E1%86%BA)%E1%84%8B%E1%85%AA%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA%202945414d3a41407f94c2fd626bc69ee9/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/136703899-8f92dd12-2182-483f-bc64-6f905e68c5ed.png)
 
 ■**JSP의 Life Cycle 요약**
 
