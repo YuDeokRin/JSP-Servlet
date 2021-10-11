@@ -32,7 +32,8 @@ jsp 페이지를 작성할 때 특별한 기능을 제공하는 JSP 컨테이너
 
 내부객체의 9가지 종류
 
-![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/136812609-dd3843c2-2f6e-4e0c-aa18-9bc8be31e2d1.png)
+
 
 jsp 페이지의 내부 객체
 
@@ -115,7 +116,8 @@ key는 String타입의 객체 형태를 가지고 있습니다.
     
 - 결과
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/136812634-0c70552a-c9da-4593-9bc6-2d1019e39364.png)
+
     
 
 - request1.jsp 예제
@@ -148,7 +150,8 @@ key는 String타입의 객체 형태를 가지고 있습니다.
     
 - 결과
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/136812653-b4d0aa71-4eae-4158-b321-1ac08783fb89.png)
+
     
 
  
@@ -218,8 +221,9 @@ String getHeader(name)             HTTP요청 헤더에 지정된 name의 값을
     
 - 결과
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%203.png)
-    
+
+ ![Untitled 3](https://user-images.githubusercontent.com/56623911/136812669-556b009a-ab3a-4baa-ab70-a9f277273f40.png)
+   
 
 - **Tip. 루프백 주소**
     
@@ -282,7 +286,8 @@ setHeader(name, value) 메소드는 HTTP 응답 Header 설정을 위한 메소�
     
 - 결과
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/56623911/136812682-c4d6ba82-89b3-43a5-9932-3e8e3ea85231.png)
+
     
 
 - **Tip. Paragma와 Cache-Control**
@@ -330,8 +335,8 @@ void close()             출력의 버퍼의 내용을 flush하고 스트림을 
     
 - 결과
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%205.png)
-    
+![Untitled 5](https://user-images.githubusercontent.com/56623911/136812699-1c08c2ac-8c97-4eb2-b4d7-09bf6d3c546c.png)
+  
 
 - **Tip. 버퍼(buffer)란?**
     
@@ -439,15 +444,18 @@ void invalidate()                     해당 세션을 종료 시킵니다.
     ```
     
 - 결과
+
+
+![Untitled 6](https://user-images.githubusercontent.com/56623911/136812731-0dbd35cd-55f1-45ce-b315-9ceb57657a70.png)
+   
+ 
+![Untitled 7](https://user-images.githubusercontent.com/56623911/136812744-5dcb8e4d-311d-4a03-aeb1-38e38ae41e58.png)
+
+![Untitled 8](https://user-images.githubusercontent.com/56623911/136812768-995a56f8-4fca-40d4-882e-06a7854ef933.png)
+
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%206.png)
-    
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%207.png)
-    
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%208.png)
-    
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%209.png)
-    
+![Untitled 9](https://user-images.githubusercontent.com/56623911/136812791-a5e7d034-02f7-4646-b0cb-6201dc7e7d47.png)
+
 
 - **Tip. Session VS Cookie?**
     
@@ -500,8 +508,7 @@ void log(message)            로그 파일에 message를 기록합니다.
     
 - 결과
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%2010.png)
-    
+![Untitled 10](https://user-images.githubusercontent.com/56623911/136812819-598643f3-bc56-452f-9e2c-81c34808e117.png)
 
 ■**pageContext**
 
@@ -547,8 +554,8 @@ page 객체는 jsp페이지 그 자체를 나타내는 객체입니다. 그래�
     
 - 결과
     
-    ![Untitled](Chapter07%20JSP%E1%84%8B%E1%85%B4%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%205ce5fc9d597341b79a00518c25ad86c5/Untitled%2011.png)
-    
+![Untitled 11](https://user-images.githubusercontent.com/56623911/136812831-8577d881-eb6b-4939-8361-59e65ac85913.png)
+
 
 **■config**
 
