@@ -625,3 +625,5 @@ String toString()     에러 실체의 클래스명과 에러 메시지를 반�
     ```
     
 - 결과
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/340a3966-15c9-4da6-9bed-d564ab0e958c/Untitled.png)
