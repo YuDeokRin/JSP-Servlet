@@ -159,7 +159,8 @@ expiry는 초 단위로 쿠키의 초대 수명을 설정합니다.
 
 - 결과
     
-    ![Untitled](Chpater12%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB(session)%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5(cookie)%2008a21495800e43ce9787c3515010b472/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/137302607-7689f97c-43f8-4380-9da9-54b28fd9ea0b.png)
+
     
 
 ## 세션 인터페이스
@@ -296,16 +297,16 @@ session.invalidate();
 
 - 결과
     
-    ![Untitled](Chpater12%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB(session)%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5(cookie)%2008a21495800e43ce9787c3515010b472/Untitled%201.png)
-    
-    ![Untitled](Chpater12%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB(session)%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5(cookie)%2008a21495800e43ce9787c3515010b472/Untitled%202.png)
-    
+![Untitled 1](https://user-images.githubusercontent.com/56623911/137302643-30cff9dc-feb3-42a0-912e-05df2cbd750d.png
+  
+![Untitled 2](https://user-images.githubusercontent.com/56623911/137302669-c9b2bc8d-18f6-45dc-bd76-1b12cf23e241.png)
+
 
 ## Cookie 과 Session 비교
 
-![Untitled](Chpater12%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB(session)%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5(cookie)%2008a21495800e43ce9787c3515010b472/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/56623911/137302688-25d3c861-6987-426d-a631-3b02948631a2.png)
 
-![Untitled](Chpater12%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB(session)%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5(cookie)%2008a21495800e43ce9787c3515010b472/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/56623911/137302702-8853b76b-cfb5-4501-a693-889301f36a04.png)
 
 **■각각의 클라이언트를 식별하는 ID를 알아내는 예제**
 
@@ -368,11 +369,12 @@ session.invalidate();
 ```
 
 - 결과
+
+![Untitled 5](https://user-images.githubusercontent.com/56623911/137302711-a208ab26-af99-4bbc-9a83-cdbfa28bf162.png)
     
-    ![Untitled](Chpater12%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB(session)%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5(cookie)%2008a21495800e43ce9787c3515010b472/Untitled%205.png)
-    
-    ![Untitled](Chpater12%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB(session)%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5(cookie)%2008a21495800e43ce9787c3515010b472/Untitled%206.png)
-    
+
+![Untitled 6](https://user-images.githubusercontent.com/56623911/137302719-df03b7a6-6825-461c-86db-46b63e457cd4.png)
+
 
 - **Tip. 쿠키의 유효성**
     
