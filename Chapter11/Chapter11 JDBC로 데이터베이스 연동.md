@@ -5,11 +5,13 @@
 - JDBC 인터페이스 : 프로그래머에게 쉬운 데이터베이스와 연동되는 프로그램을 작성할 수 있게 하는 도구
 - JDBC드라이버 : JDBC 인터페이스를 구현하여 실제로 DBMS를 작동시켜서 질의를 던지고 결과를 받음
 
-![Untitled](Chapter11%20JDBC%E1%84%85%E1%85%A9%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%20bf1850f38e76453fab29f84cec589a80/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/56623911/137312521-c6c9d99e-e656-4ece-831d-a893f59f4638.png)
+
 
 **JDBC Driver Type**
 
-![Untitled](Chapter11%20JDBC%E1%84%85%E1%85%A9%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%20bf1850f38e76453fab29f84cec589a80/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/56623911/137312532-7a2119b2-1578-4fad-af0b-980323c5440d.png)
+
 
 ■**Type 1:  JDBC-ODBC 브릿지 + ODBC 드라이버(JDBC-ODBC Brdge Plus ODBC Driver)**
 
@@ -56,7 +58,8 @@ public class DriverTest {
 
 - 결과
     
-    ![Untitled](Chapter11%20JDBC%E1%84%85%E1%85%A9%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%20bf1850f38e76453fab29f84cec589a80/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/56623911/137312543-e12815cc-3b50-4e44-a3cb-b14da942a02c.png)
+ 
     
 - **Tip.JDBC API**
     
@@ -110,4 +113,4 @@ conn.close();
 
 ```
 
-![Untitled](Chapter11%20JDBC%E1%84%85%E1%85%A9%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%87%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%83%E1%85%A9%E1%86%BC%20bf1850f38e76453fab29f84cec589a80/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/56623911/137312556-52600bc8-686c-4930-87d7-e53dbbedd7aa.png)
