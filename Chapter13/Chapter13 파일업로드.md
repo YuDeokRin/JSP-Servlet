@@ -24,10 +24,9 @@
 
 - 결과
     
-    ![Untitled](Chapter13%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%20e3eedcf34ecb4d6b9c3987ce437e5d67/Untitled.png)
-    
-    ![Untitled](Chapter13%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%20e3eedcf34ecb4d6b9c3987ce437e5d67/Untitled%201.png)
-    
+![Untitled](https://user-images.githubusercontent.com/56623911/137339329-302fc87f-03b3-4fd1-8ab2-4b453b503efb.png)
+
+![Untitled 1](https://user-images.githubusercontent.com/56623911/137339390-b586ed4c-3776-4a39-a0df-c1cda57b9c3d.png)
 
 ■**MultipartRequest의 생성자**
 
